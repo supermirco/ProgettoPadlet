@@ -1,0 +1,27 @@
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.exe
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.pdb
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.xml
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.Form1.resources
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.Resources.resources
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.vbproj.GenerateResource.Cache
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.exe
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.xml
+C:\Users\net.CAD1-15\AppData\Local\Temporary Projects\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.pdb
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.exe
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.xml
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.pdb
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.exe
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.pdb
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.xml
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.Form1.resources
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.Resources.resources
+E:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.vbproj.GenerateResource.Cache
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.exe
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.xml
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.pdb
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.exe
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.pdb
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\bin\Debug\ProgettoPadletVB.xml
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.Form1.resources
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.Resources.resources
+J:\Galvani_2022-2023\Informatica\VB\ProgettoPadletVB\ProgettoPadletVB\obj\x86\Debug\ProgettoPadletVB.vbproj.GenerateResource.Cache
